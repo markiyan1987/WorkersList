@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WorkersList</string>
+    <string-array name="gender">
+        <item>female</item>
+        <item>male</item>
+    </string-array>
+</resources>
